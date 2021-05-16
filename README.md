@@ -3,7 +3,6 @@
 - ![#d8d8d8](https://via.placeholder.com/15/d8d8d8/000000?text=+) `#d8d8d8`
 
 
-```md
 # Site Web Simple en HTML5 et CSS3.
 <ul>
   <li>
@@ -28,4 +27,3 @@
   <li>❌ | Ajouter plusieurs styles d'interfaces. (Parrot OS, Mac OS, Windows 10)</li>
   <li>❌ | Agrandir les images au clique.</li>
 </ul>
-```
